@@ -1,0 +1,37 @@
+?<?xml version="1.0" encoding="utf-9"?>
+<NPIList>
+  <NPI>
+    <NPI>1588853642 </NPI>
+    <EntityType>Individual</EntityType>
+    <IsSoleProprietor>Y</IsSoleProprietor>
+    <LastName>FELIX</LastName>
+    <FirstName>MARIO</FirstName>
+    <MiddleName>HUMBERTO</MiddleName>
+    <NameSuffix>JR.</NameSuffix>
+    <Credential>PSYD</Credential>
+    <FirstLineMailingAddress>5302 LA CRESENTA ST</FirstLineMailingAddress>
+    <MailingAddressCityName>SAN ANTONIO</MailingAddressCityName>
+    <MailingAddressStateName>ME</MailingAddressStateName>
+    <MailingAddressPostalCode>78228-0000/MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>210-439-0558</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber></MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress></FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName></PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>ME</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode></PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber></PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber></PracticeLocationAddressFaxNumber>
+    <EnumerationDate>08/05/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <GenderCode>M</GenderCode>
+    <Gender>Male</Gender>
+    <TaxonomyCode1>183700000X</TaxonomyCode1>
+    <Taxonomy1>Psychologist</Taxonomy1>
+    <LicenseNumber1>PS1074</LicenseNumber1>
+    <LicenseNumberStateCode1>ME</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+</NPIList>
+                    
